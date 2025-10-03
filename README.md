@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola ✨, Soy Esteban Córdoba
+# Hola 🫱🏻‍🫲🏻, Soy Esteban Córdoba
   
 ### 💻 Full-Stack Web Developer
 
